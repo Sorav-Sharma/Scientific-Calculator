@@ -1,0 +1,158 @@
+arithm
+arithm
+4! = 24 
+arithm
+Sum = 89.10 
+arithm
+Sum = 110.00 
+arithm
+difference(a-b) = -31.31 
+arithm
+difference(a-b) = -0.50 
+arithm
+Sum = 13.00 
+conver
+0.00480 decameterconver
+conver
+0.08456 hectogramconver
+complex
+ = 10.00 [Cos(36.87) + i(sin(36.87)] = 10.00 e^i(36.87) graph
+
+Area = 2.00
+Perimeter = 7.84
+angles of this triangle are = 29.74 , 63.43 and 33.69 in degrees.
+Centroid of this triangle is (3.33,7.67)(-272.98,-14.66)
+arithm
+nCr = 4.00 
+The 7.000000 root of 4.000000 is = 1.22
+conver
+383.93142graph
+Sides are of length --> 2.00 , 2.00 , 2.00 , 2.00 
+diagonals are of length --> 2.83 , 2.83  
+Area = 4.00
+
+Equations of its sides are : 
+Equations of its diagonals are : 
+-2.00x + 0.00y = 0.00
+0.00x + 2.00y = 4.00
+2.00x + 0.00y = 4.00
+0.00x - 2.00y = -0.00
+-2.00x + 2.00y = 0.00
+2.00x + 2.00y = 4.00
+graph
+Sides are of length --> 5.10 , 12.73 , 6.71 , 14.04 
+diagonals are of length --> 8.94 , 16.16  
+Area = 6.00
+
+Equations of its sides are : 
+Equations of its diagonals are : 
+-1.00x + 5.00y = 36.00
+9.00x - 9.00y = 0.00
+6.00x + 3.00y = 0.00
+-14.00x + 1.00y = -48.00
+8.00x - 4.00y = 0.00
+15.00x - 6.00y = 81.00
+graph
+complex
+ = 10.00 [Cos(36.87) + i(sin(36.87)]matrix
+conver
+Your BMI is 26.37. You are overweight.cd
+graph
+
+Area = 0.00
+Perimeter = 22.63
+angles of this triangle are = 0.00 , 0.00 and 0.00 in degrees.
+Centroid of this triangle is (3.00,3.00)arithm
+arithm
+geo
+geo
+trigno
+trigno
+trigno
+trigno
+matrix
+matrix
+84.1 and 2.9 
+conve
+matrix
+complex
+ = 10.00 e^i(36.87)  = 10.00 [Cos(36.87) + i(sin(36.87)]quad
+1.00 + i(1.41) and 1.00 - i(1.41)
+1.00 + i(1.41) and 1.00 - i(1.41)
+The given equation has real and distinct roots that are: 
+x=3.0 and x=1.0 
+vectpr
+2
+ssr
+ssr
+vector
+The unit vector in the direction of given vector is 0.0i+0.0j+1.0k 
+ graph
+Centre = (7.58,8.70)
+Radius = 3.09
+graph
+Centre = (0.00,-0.00)
+Radius = 1.00
+graph
+Sides are of length --> 3.00 , 2.24 , 2.00 , 2.00 
+diagonals are of length --> 2.83 , 3.61  
+Area = 5.00
+
+Equations of its sides are : 
+Equations of its diagonals are : 
+-3.00x + 0.00y = 0.00
+1.00x + 2.00y = 6.00
+2.00x + 0.00y = 4.00
+0.00x - 2.00y = -0.00
+-2.00x + 2.00y = 0.00
+3.00x + 2.00y = 6.00
+graph
+Sides are of length --> 3.00 , 2.00 , 3.00 , 2.00 
+diagonals are of length --> 3.61 , 3.61  
+Area = 6.00
+
+Equations of its sides are : 
+Equations of its diagonals are : 
+-3.00x + 0.00y = 0.00
+0.00x + 2.00y = 6.00
+3.00x + 0.00y = 6.00
+0.00x - 2.00y = -0.00
+-3.00x + 2.00y = 0.00
+3.00x + 2.00y = 6.00
+trigno
+none
+geo
+geo
+geo
+complex
+ = 10.00 e^i(36.87)  = 10.00 [Cos(36.87) + i(sin(36.87)]The resultant complex number is : 1.41 - i(0.43)
+The resultant complex number is : 11.00 + i(13.00)
+cd
+vector
+The vector triple product of v1,v2 and v3 is : -512.0i+634.0j+-504.0k 
+The vector triple product of v1,v2 and v3 is : 30.0i+60.0j+-54.0k 
+matrix
+cd
+cd
+graph
+(3.75,8.08)
+Sides are of length --> 3.00 , 2.00 , 3.00 , 2.00 
+diagonals are of length --> 3.61 , 3.61  
+Area = 6.00
+
+Equations of its sides are : 
+Equations of its diagonals are : 
+-3.00x + 0.00y = 0.00
+0.00x + 2.00y = 6.00
+3.00x + 0.00y = 6.00
+0.00x - 2.00y = -0.00
+-3.00x + 2.00y = 0.00
+3.00x + 2.00y = 6.00
+complex
+ = 10.00 e^i(36.87) cd
+complex
+ = 8.94 [Cos(63.43) + i(sin(63.43)]graph
+(5.05,5.09)
+quad
+1.50 + i(1.32) and 1.50 - i(1.32)
+cd
